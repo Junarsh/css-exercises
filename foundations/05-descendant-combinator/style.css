@@ -1,0 +1,15 @@
+div p {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+
+div .two {
+    background-color: red;
+}
+
+.hello #hi {
+    background: red;
+}
